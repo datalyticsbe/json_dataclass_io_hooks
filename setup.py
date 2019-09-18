@@ -24,5 +24,6 @@ setup(
     python_requires='>=3.7',
     keywords='JSON, dataclass, dataclasses, save, load, store, hooks, convert, dict',
     include_package_data=True,
+    long_description_content_type="text/markdown",
     long_description=long_description,
 )
